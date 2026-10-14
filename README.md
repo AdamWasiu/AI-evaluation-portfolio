@@ -37,5 +37,10 @@ Examples will use publicly available or self-created materials and will not disc
 Professional Focus
 
 AI evaluation | Image annotation | Multimodal assessment | Research evaluation | Quality assurance
-
 This portfolio is intended to demonstrate evaluation methods and professional skills. Illustrative examples are identified as demonstrations rather than client deliverables.
+
+## Professional Experience
+
+- [Outlier AI Experience](experience/outlier-ai-project-aether.md)
+- [AI Image Evaluation Case Study](case-studies/ai-image-evaluation.md)
+- [Multimodal Instruction Adherence Case Study](case-studies/multimodal-instruction-adherence.md)
