@@ -1,8 +1,8 @@
-## AI Evaluation Portfolio
+ AI Evaluation Portfolio
 
 Explore my work in AI evaluation, image quality assessment, and multimodal instruction adherence.
 
-**[View My AI Evaluation Portfolio](https://github.com/AdamWasiu/AI-evaluation-portfolio)
+[View My AI Evaluation Portfolio](https://github.com/AdamWasiu/AI-evaluation-portfolio)
 
 Professional Overview
 
