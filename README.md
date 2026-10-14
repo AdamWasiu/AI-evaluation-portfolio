@@ -41,6 +41,5 @@ This portfolio is intended to demonstrate evaluation methods and professional sk
 
 ## Professional Experience
 
-- [Outlier AI Experience](experience/outlier-ai-project-aether.md)
 - [AI Image Evaluation Case Study](case-studies/ai-image-evaluation.md)
 - [Multimodal Instruction Adherence Case Study](case-studies/multimodal-instruction-adherence.md)
